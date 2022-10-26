@@ -1,0 +1,41 @@
+/* the styles for the elements */
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}
+
+/* the styles for the header */
+header img {
+	float: left;
+}
+.shadow {
+	text-shadow: maroon;
+}
+/* the styles for the main content */
+main {
+	clear: left;
+}
+main h1 {
+	font-size: 150%;
+}
+main h2 {
+	color: #800000;
+	font-size: 170%;
+	text-indent: 30px;
+}
+a:hover, a:focus {
+	font-style: italic
+}
+main h3 {
+	font-size: 130%;
+	font-style: italic;
+	text-indent: 30px;
+}
+selector {
+	global-color-1: #8000000
+}
+footer p {
+	text-align: center;
+}
+
+/* the styles for the footer */
